@@ -43,7 +43,6 @@ var life = require("./root/life/live){
   
   <h4>Back-end languages</h4>
     <img align="left" alt="Leo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-   <img align="left" alt="Leo-dart" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-
 </div>
 <br />
 <br />
@@ -59,7 +58,6 @@ var life = require("./root/life/live){
   <h3>💞 Connect with me on (Conecte-se comigo no):</h3>
 <div align="center"> 
 
- 	<a href="https://www.twitch.tv/madeline_lea" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dev.gil.jr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-miguel-1b238a19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -76,6 +74,7 @@ var life = require("./root/life/live){
 ## Hi there 👋
 **GilUser/GilUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ 	<a href="https://www.twitch.tv/madeline_lea" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCd9Hi7MsfIA9xgBuj2z3gtw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leo_ainowa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 Here are some ideas to get you started:
