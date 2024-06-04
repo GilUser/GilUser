@@ -13,20 +13,20 @@ var life = require("./root/life/live){
 </div>
 
 ##
-  <h3> Oh, hello! My name is Gil is a pleasure have you here!</h3>
+  <h3> Oh, hello! My name is Gildo is a pleasure have you here!</h3>
 
-- 🔭 I’m currenly not working
-- 🌱 I’m currently JavaScript (Noje.js) and Python.
+- 🔭 I’m currently not working.
+- 🌱 I’m currently learning JavaScript (Node.js) and Python.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Just a huge fan of Celeste and programming stuff.
+- ⚡ Fun fact: Just a huge fan of programming stuff.
 ##
 
- <h3>Olá queridos, queridas e querides! Meu nome é Leonardo e é um prazer ter você aqui!</h3>
+ <h3>Olá, seja bem-vindo! Meu nome é Gildo e é um prazer ter você aqui!</h3>
 
-- 🔭 Ultimamente estou trabalhando como Assistente de Tecnologia na Cliqx Dev.
-- 🌱 Atualmente estou apredendo Ruby, Javascript para Front-end e React.
+- 🔭 Ultimamente estou desempregado.
+- 🌱 Atualmente estou apredendo Javascript (Node.js) e Python.
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fato divertido: Apenas um grande fã de Celeste é de programação.
+- ⚡ Fato divertido: Apenas um grande fã de programação.
 
 
 ##
@@ -60,7 +60,7 @@ var life = require("./root/life/live){
 <div align="center"> 
 
  	<a href="https://www.twitch.tv/madeline_lea" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leonmigu2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dev.gil.jr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-miguel-1b238a19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
