@@ -1,7 +1,7 @@
 
 <h4>This all is inspired in a good friend who's cannot be find anymore</h4>
 <h1> Hello World</h1>
-var life = require("./root/life/live){
+const life = require("./root/life/live.js"){
 
   
 <h3> My stats (Minhas estatísticas)</h3>
