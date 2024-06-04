@@ -1,4 +1,5 @@
 
+<h4>This all is inspired in a good friend who's cannot be find anymore</h4>
 <h1> Hello World</h1>
 var life = require("./root/life/live){
 
@@ -7,15 +8,15 @@ var life = require("./root/life/live){
 
 <div align="left">
   <a href="https://github.com/GilUser">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=madeline-lea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeline-lea&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GilUser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilUserlayout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
-  <h3> Oh, hello darling! My name is Leonard is a pleasure have you here!</h3>
+  <h3> Oh, hello! My name is Gil is a pleasure have you here!</h3>
 
-- 🔭 I’m currenly working as Tech Assist on Cliqx Dev
-- 🌱 I’m currently learning Ruby, JavaScript for Front-end and React.
+- 🔭 I’m currenly not working
+- 🌱 I’m currently JavaScript (Noje.js) and Python.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Just a huge fan of Celeste and programming stuff.
 ##
